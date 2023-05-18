@@ -1,6 +1,6 @@
 ---
 title: "Ballad of the Soldier"
-description: "We need to add description later"
+description: "Written In honour of soldiers who stand or have perished in serving the nation  "
 pubDate: 2023-01-26T16:36:01+05:30
 author: "Aarush"
 tags: ["poem", "Aarush"]
