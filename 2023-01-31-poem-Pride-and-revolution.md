@@ -1,6 +1,6 @@
 ---
 title: "Pride and revolution"
-description: "A peom on Tiger"
+description: "Vanity of the inglorious corrupt invites the wrath of the downtrodden "
 pubDate: 2023-01-31T16:36:01+05:30
 author: "Aarush"
 tags: ["poem", "Aarush"]
@@ -22,7 +22,7 @@ But they are the worst sickening form of pond scum!</br>
 Just because some</br>
 Are born with the golden spoon in their hideous mouths!</br>
 They feel they are superior than the laws,</br>
- And feel their position and moolah will help them escape justice’s vengeful claws!</br>
+ And feel their position and wealth will help them escape justice’s vengeful claws!</br>
 </br>
 Just ignore those people</br>
 And sharpen  the axe for culling their pride</br>
@@ -31,7 +31,6 @@ Statements they make against the common soul</br>
 Because they don't know us</br>
 For we too can play harsh </br>
 With weapons of revolution</br>
-And burning coal</br>
 Of protest and dissent!</br>
 
 {{< /rawhtml >}}
