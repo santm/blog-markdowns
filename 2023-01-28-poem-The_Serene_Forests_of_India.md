@@ -1,6 +1,6 @@
 ---
 title: "The Serene Forests of India"
-description: "We need to add description later"
+description: " A poem composed in tribute to the beautiful forests of India "
 pubDate: 2023-01-28T16:36:01+05:30
 author: "Aarush"
 tags: ["poem", "Aarush"]
