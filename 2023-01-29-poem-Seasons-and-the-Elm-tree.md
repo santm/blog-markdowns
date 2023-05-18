@@ -1,6 +1,6 @@
 ---
-title: "Seasons and the Elm tree"
-description: "We need to add description later"
+title: "Tiger and it, prey "
+description: "Something lurks in the tall grass of the forests, but before the doe realises, her fate fate is sealed "
 pubDate: 2023-01-29T16:36:01+05:30
 author: "Aarush"
 tags: ["poem", "Aarush"]
@@ -12,8 +12,6 @@ image : {
 featured_image_small : "/images/featured/small/2023-poem-elm-tree.jpg"
 ---
 {{< rawhtml >}}
-<p class="has-text-centered is-size-2">Seasons and the Elm tree</p>
-<p class="has-text-centered">
 In the tropical forests</br>
 A deadly predator rests</br>
 Silent as a shadow</br>
