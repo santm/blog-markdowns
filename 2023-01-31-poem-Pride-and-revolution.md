@@ -12,10 +12,10 @@ image : {
 ---
 
 
-Oh doesn't everyone hate those with an ego,
-With a size bigger than the planet of Pluto.
-Does who think who believe they are better than the common dirt,
-And from their mouth, Nonsense, they spurt 
+Oh doesn't everyone hate those with an ego,  
+With a size bigger than the planet of Pluto.  
+Does who think who believe they are better than the common dirt,  
+And from their mouth, Nonsense, they spurt   
 But they are the worst sickening form of pond scum!
 Just because some
 Are born with the golden spoon in their hideous mouths!
