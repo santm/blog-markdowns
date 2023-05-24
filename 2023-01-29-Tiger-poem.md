@@ -6,8 +6,8 @@ author: "Aarush"
 tags: ["poem", "Aarush"]
 category : Poem
 image : {
-    src : "/images/featured/2023-poem-elm-tree.jpg",
-    alt : "alt helps",
+    src : "https://ik.imagekit.io/santm/blog/2023-Tiger-poem_tNrPFBmik.webp",
+    alt : "Tiger Bandhavgarh",
 }
 featured_image_small : "/images/featured/small/2023-poem-elm-tree.jpg"
 ---

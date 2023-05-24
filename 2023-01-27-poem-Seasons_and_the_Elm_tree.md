@@ -6,8 +6,8 @@ author: "Aarush"
 tags: ["poem", "Aarush"]
 category : Poem
 image : {
-    src : "/images/featured/tiger-kabini.jpg",
-    alt : "alt text"
+    src : "https://ik.imagekit.io/santm/blog/2023-Seasons-Elm-tree_gyTYFNQhN.webp",
+    alt : "A beautiful tree"
     }
 featured_image_small : "/images/featured/small/tiger-kabini.jpg"
 ---

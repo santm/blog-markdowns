@@ -6,8 +6,8 @@ author: "Aarush"
 tags: ["poem", "Aarush"]
 category : Poem
 image : {
-	src : "/images/featured/tiger-kabini.jpg",
-	alt : "A tiger in Kabini",
+	src : "https://ik.imagekit.io/santm/blog/2023-poem-pride_V2pT_d4HeQ.webp",
+	alt : "Glittering gold",
 }
 ---
 

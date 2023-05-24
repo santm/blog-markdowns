@@ -1,6 +1,6 @@
 ---
 title: "Day 6 in Kashmir"
-description: "We need to add description later"
+description: "Aru Valley, Betab Valley & Chandan Wari, the golden triangle of Kashmir's tourism"
 pubDate: 2022-04-16T02:05:57+05:30
 author: "Aarush"
 tags: [kashmir, India, travel]

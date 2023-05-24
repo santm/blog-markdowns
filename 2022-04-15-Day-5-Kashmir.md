@@ -1,6 +1,6 @@
 ---
 title: "Day 5 in Kashmir"
-description: "We need to add description later"
+description: "Pahalgam -- is one of the most scenic places to visit in Kashmir. With scenic vistas, lush greenery and pristine lakes"
 pubDate: 2022-04-15T13:05:57+05:30
 author: "Aarush"
 tags: [kashmir, India, travel]

@@ -6,8 +6,8 @@ author: Aarush
 tags: [kashmir, India, travel]
 category : Travel
 image: {
-    src: "https://lh3.googleusercontent.com/YeAz5M5qOZjG1rfJGA4lVQeHhOepPFdJm-uId-pMVJtxKuTbzwPN4JrppgnADmeuVvrDvtoorRNEx6PlChWKwLth6uZNrYtu_VCIllLInMB-jk-zi20l4cnYsB7O9NbeCFqQXe5tmtU",
-    alt: "alt text helps",
+    src: "https://ik.imagekit.io/santm/blog/2022-Kashmir-day-1_e4uN3-1Eb2.webp?updatedAt=1684813321021",
+    alt: "Tulip Garden of Kashmir",
 }
 featured_image_small : "/images/featured/small/2022-april-kashmir-1.jpg"
 ---

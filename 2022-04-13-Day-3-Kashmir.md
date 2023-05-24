@@ -6,8 +6,8 @@ author: "Aarush"
 tags: [kashmir, India, travel]
 category : Travel
 image: {
-    src: "https://lh3.googleusercontent.com/XN00lM1W7TBi3YvwwuA_JPPdb4jzaIb4Mek7T3HIkY1utEn5C7q5OytANtmm1i-qNvyY2JWMROpVSYxi8l-6r934AN2DtDem7Lhzu0dJVdvNltDh242alArngdvi7MxjqwCYyiS6psU",
-    alt: "kashmir pic 3",
+    src: "https://ik.imagekit.io/santm/blog/2022-Kashmir-day-3_9bnA6J0Lx.webp",
+    alt: "Srinagar -- Shikhara",
 }
 featured_image_small : "/images/featured/small/2022-april-kashmir-3.jpg"
 ---
