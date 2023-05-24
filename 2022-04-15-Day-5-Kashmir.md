@@ -6,8 +6,8 @@ author: "Aarush"
 tags: [kashmir, India, travel]
 category : Travel
 image : {
-    src : "/images/blog_pics/2022-april-kashmir-5.jpg",
-    alt : "alt helps",
+    src : "https://ik.imagekit.io/santm/blog/2022-Kashmir-day-5_94XjGDZe4.webp",
+    alt : "Pahalgam",
 }
 featured_image_small : "/images/featured/small/2022-april-kashmir-5.jpg"
 ---
