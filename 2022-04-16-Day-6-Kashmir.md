@@ -6,8 +6,8 @@ author: "Aarush"
 tags: [kashmir, India, travel]
 category : Travel
 image: {
-    src : "/images/blog_pics/2022-april-kashmir-6.jpg",
-    alt : "alt text help",
+    src : "https://ik.imagekit.io/santm/blog/2022-Kashmir-day-6_X_SZy40fC8.webp",
+    alt : "Aru Valley",
 }
 featured_image_small : "/images/blog_pics/2022-april-kashmir-6.jpg"
 ---
