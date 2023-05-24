@@ -1,12 +1,12 @@
 ---
 title: "Day 4 in Kashmir"
-description: "We need to add description later"
+description: "Gulmarg lots of snows and special cable car ride"
 pubDate: 2022-04-14T13:05:57+05:30
 author: "Aarush"
 tags: [kashmir, India, travel]
 category : Travel
 image: {
-    src: "/images/blog_pics/2022-04-14_day-4.jpg",
+    src: "https://ik.imagekit.io/santm/blog/2022-Kashmir-day-4_AouYq8yiL.webp",
     alt: "a alt helps",
 }
 
