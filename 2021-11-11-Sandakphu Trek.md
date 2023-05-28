@@ -1,10 +1,10 @@
 ---
 title: "Sandakphu Trek"
-description:"A long journey on foot to  have glimpse of the himalayas is in its full beauty "
+description: "A long journey on foot to  have glimpse of the himalayas is in its full beauty "
 date: 2021-11-11T02:02:00+05:30
 author: "Pamela"
 tags: ["Travel", "Road Trips", "hiking","backpacking","himalaya","West Bengal"]
-categories : [Travel, India, West Bengal]
+categories : [Travel]
 featured_image : "https://lh3.googleusercontent.com/uCo_vm2_q5eI9YSY4kwO40otDkKoki4fYzce3rzWZaCHfXgvzCNacJos71mDoHF7TShClMWAKxW1KetXNZyKvkcmt8hwcKXvCZ5lsf-spJG4jqKe3wGrwNBlG_K0TawZPohSyuk68BY"
 featured_image_small : "/images/featured/small/2021-Sandakphu.jpg"
 
