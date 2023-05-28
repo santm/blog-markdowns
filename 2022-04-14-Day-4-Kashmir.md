@@ -1,6 +1,6 @@
 ---
 title: "Day 4 in Kashmir"
-description: "Gulmarg lots of snows and special cable car ride"
+description: "Gulmarg, The peaks of snow and ice "
 pubDate: 2022-04-14T13:05:57+05:30
 author: "Aarush"
 tags: [kashmir, India, travel]
