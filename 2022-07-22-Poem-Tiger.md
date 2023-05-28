@@ -1,6 +1,6 @@
 ---
 title: "The Tiger and his prey"
-description: "We need to add description later"
+description: "The striped assasin of the forest tops the food chain, the tiger is an animal not to be trifled with "
 pubDate: 2022-07-22T16:36:01+05:30
 author: "Aarush"
 tags: ["Tiger","poem", "Aarush"]
