@@ -1,6 +1,6 @@
 ---
 title: "Day 2 in Kashmir"
-description: "We need to add description later"
+description: "Srinagar is the India's northern gateway , a scenic city bustling in culture, tradition and modern elegance "
 pubDate: 2022-04-12T13:05:57+05:30
 author: "Aarush"
 tags: [kashmir, India, travel]
