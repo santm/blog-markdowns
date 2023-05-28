@@ -1,6 +1,6 @@
 ---
 title: "Seasons and the Elm tree"
-description: "We need to add description later"
+description: "The seasons come and go, a cycle of life and death repeats but elm tree stands,witness to everything around it"
 pubDate: 2023-01-27T16:36:01+05:30
 author: "Aarush"
 tags: ["poem", "Aarush"]
