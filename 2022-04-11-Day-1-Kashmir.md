@@ -1,6 +1,6 @@
 ---
 title: "A Trip to Indian's Crown"
-description: "We need to add description later"
+description: "The crown of India , jewelled with snow and pine trees and laden with a rich history and culture"
 pubDate: 2022-04-11T13:05:07+05:30
 author: Aarush
 tags: [kashmir, India, travel]
