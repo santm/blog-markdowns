@@ -1,6 +1,6 @@
 ---
 title: "Day 3 in Kashmir"
-description: "We need to add description later"
+description: "Dal lake, the floating town"
 pubDate: 2022-04-13T13:05:57+05:30
 author: "Aarush"
 tags: [kashmir, India, travel]
