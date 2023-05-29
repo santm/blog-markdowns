@@ -2,7 +2,7 @@
 title: "Humanity a Poem"
 date: 2021-10-22T16:36:01+05:30
 author: "Aarush"
-tags: ["Humanity","poem", ]
+tags: ["humanity", "poem", ]
 categories : [Poem]
 featured_image : "https://lh3.googleusercontent.com/DNN2XHKMLuoh9he20HSkR4fXxhOH17rUbA01PR4B_64mI3aAaPhDauavSVPDGPF1PPqRsHaDHWKOi8bwaelh7j0RZ9hiR7W7a3h99kHES2MJ7DXXCFwob6fbrVmvVamhkRglBhMbv3o"
 featured_image_small : "/images/featured/small/2021-poem-humanity.jpg"
@@ -32,6 +32,6 @@ We all are equal as human beings</p>
 >  
 >We as humans follow the will of society which often controlled by the powerful and see socialists, atheists, the LGBTQA+ community, Environment activists as a group of rebels, outcasts, or a delusional people looking for attention. The poet compares human life with animals who lead simpler lives and are not bound by the accident of birth.  
 >  
->We often see the unnecessary like minor details, flaws in other people’s lives , unneeded problems in society but fail to notice injustice, discrimination or even environmental problems we think of the seven deadly sins instead of focusing on helping and serving life on this earth and how the human mind is so violent.  
+>We often see the unnecessary like minor details, flaws in other peopleâ€™s lives , unneeded problems in society but fail to notice injustice, discrimination or even environmental problems we think of the seven deadly sins instead of focusing on helping and serving life on this earth and how the human mind is so violent.  
 >  
 >The poet calls for action that allows humans to live their life to the fullest without society excommunicating us and to understand that all of man is equal.

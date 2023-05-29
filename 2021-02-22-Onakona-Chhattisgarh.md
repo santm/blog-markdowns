@@ -2,7 +2,7 @@
 title: "Onakona Temple"
 date: 2021-02-22T02:02:00+05:30
 author: "Santanu Misra"
-tags: ["Travel", "Road Trips", "car","highway","temple","Lake"]
+tags: ["travel", "road trips", "car", "highway", "temple", "lake"]
 categories : [Travel, India, Chhattisgarh]
 featured_image : "https://lh3.googleusercontent.com/2cfjpwNdSBzUsL7v8UqGnJ0mH7tY0EB2vlRfBjswJRx4ZWgJAqzN7uZYtf3R0IE0VkJoLIRX5UxP8v6lDoE-QbITkvNEBzn7ECNZacKKj_rAIf6ovBHrzqu-EOxIGuPjBGzJcAKnCLU"
 featured_image_small : "/images/featured/small/2021-onakona-chhattisgarh.jpg"

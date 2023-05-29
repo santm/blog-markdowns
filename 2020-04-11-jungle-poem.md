@@ -2,7 +2,7 @@
 title: "Jungle - a poem"
 date: 2020-04-11T22:02:00+05:30
 author: "Aarush Misra"
-tags: ["jungle","poem", ]
+tags: ["jungle", "poem", ]
 categories: [Poem]
 featured_image: "https://lh3.googleusercontent.com/peqmWt98RO78paD_ENJYBe22420M7DoBoKd-oVT9rTjRAumU2dHv8tmhUmffDAI_fOaWVkcFFkwmrxAtysfD21q1mgYa-UfzJXC8IRDYXiiD-OHcMd9e7yMlVOfi5SS8XDu2tFR43pU"
 featured_image_small : "/images/featured/small/2020-jungle.jpg"

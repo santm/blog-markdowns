@@ -2,7 +2,7 @@
 title: "Travel plan for Mewar (Udaipur) "
 date: 2021-10-25T02:02:00+05:30
 author: "Santanu Misra"
-tags: ["Travel", "Road Trips", "car","highway","temple","Lake","safari","wild life"]
+tags: ["travel", "road trips", "car", "highway", "temple", "lake", "safari", "wild life"]
 categories : [Travel, India, Rajasthan]
 featured_image : "https://lh3.googleusercontent.com/TyVh0QJOfVgKzP_j3RfudsiRDPnEElKdgJqI9Vn2yLQwb0B2qYznqtiJXRbpnPRFC5drCQckAsIdRbE1n3p34Nq3PqwBz2FC0NNRhsVsZqtMK3VUXMVyxW1zRDKpLnv5S5TevEoevTM"
 featured_image_small : "/images/featured/small/2021-travel-plan-for-mewar.jpg"

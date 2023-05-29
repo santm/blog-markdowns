@@ -27,12 +27,3 @@ After Nohkalikai falls we headed back to the Sohra again and stopped at **Ram Kr
 
 After RK mission we decided to head back to GHY post lunch. We stopped at the **Orange Roots** a vegetarian restaurant on the highway very crowded.   The food was fresh and hot and it was clean.  
 
-As we approached Shillong we thought of visiting **Shillong Peak** and drove all the way to the Air Force base to get the ticket when we realized we missed the cutoff. Disappointed we headed back to the highway. The road was narrow and had to manage big construction trucks on the turns and twist which was a complete waste. And top of that the weather was perfect with late afternoon sun on a clear blue sky ☹  
-
-We spoke with our hotel owner in Kaziranga and he was saying if you really want ride a little longer from GHY and next 4/5 hours you will be there. While it sounded promising we were not ready for that long drive.  
-
-Alternately he suggested stopping near GHY where there are lots of new resorts. We found it was way cheaper to book via **MakeMyTrip** so we booked online and headed toward GHY. We were going to stay at **Brahmaputra Jungle Resort**. Lucky for us we did not face major traffic while getting out of Shillong it was snail pace but moving. It did take a long time to get out from one end to the other of Shillong, We could see the long queue of cars/bus/trucks getting towards Shillong. 
-
-We did stop for few minutes at **Badapani/ Umiam Lake** but no great sunsets.  This time we are cautious and did not miss on **JAVA VEG** for our break. We had a good break there and almost had our early dinner and headed towards our night stop.
-
-By the time we reached the resort we were really tired after so many tourist places and driving. After we finished taking a hot shower and all it started to rain. And it did rain like cats and dogs for a long time. We were lucky that we did not need any room service as there was no chance for those hotel guys to serve us in the rain. And this place is a resort the place we were staying and the dining area was quite far.  

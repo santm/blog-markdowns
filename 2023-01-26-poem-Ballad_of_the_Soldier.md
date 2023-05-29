@@ -23,7 +23,7 @@ Here they march
 Their footsteps rattle the earth
 Their faces betray no emotion of misery, anger, pain, or mirth
 Their trusty guns at their side
-The regiment at it’s  might
+The regiment at itâ€™s  might
 The soldiers march to the battle-field ready for the fight
 
 On this battleground

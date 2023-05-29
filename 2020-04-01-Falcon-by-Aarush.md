@@ -2,7 +2,7 @@
 title: "Falcon"
 date: 2020-04-01T11:34:56+05:30
 author: "Aarush Misra"
-tags: ["Falcon","poem", ]
+tags: ["falcon", "poem", ]
 featured_image: "/images/featured/falcon.jpg"
 featured_image_small : "/images/featured/small/2020-falcon.jpg"
 ---

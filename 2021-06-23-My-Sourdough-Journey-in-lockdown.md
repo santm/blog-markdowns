@@ -2,7 +2,7 @@
 title: "My Sourdough Journey in Lockdown"
 date: 2021-06-23T17:27:41+05:30
 author: "Santanu Misra"
-tags: ["Bread", "Baking", "Sourdough"]
+tags: ["bread", "baking", "sourdough"]
 categories : [Food]
 featured_image : "https://lh3.googleusercontent.com/_oq27ygy8FNuyjHXDTKrrzD4KdmFh7fAyB2vmzoWhB0DokI4IvMODb_sv3gWgBF1RUYALfl9NYE4JwW6djJKbwkpBXLXsiK0oSvZaMozTlqvShi8F31w2-RkRojj8PovaxrKq3BueM4"
 featured_image_small : "/images/featured/small/2021-my-sourdough-journey-in-lockdown.jpg"

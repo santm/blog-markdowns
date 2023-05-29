@@ -2,7 +2,7 @@
 title: "Drive Bangalore to Durg"
 date: 2021-02-22T02:03:00+05:30
 author: "Santanu Misra"
-tags: ["Travel", "Road Trips", "car","highway"]
+tags: ["travel", "road trips", "car", "highway"]
 categories : [Travel, India,Road Trip]
 featured_image : "https://lh3.googleusercontent.com/dvf5UJ0zKlHJSNagwx39LUFCr7bteNTL_5Xj-d_4rrDvyAAiU_0LFJYMgHC_vUc1dHwMyfREsi8VuY9empn5C4MirpW8OJfFgzDzzzAEaWhvgfKiDFHVmJn7Grs-W6yAfG2HCj5gnFc"
 featured_image_small : "/images/featured/small/2021-drive-bangalore-2-durg.jpg"

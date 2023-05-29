@@ -2,7 +2,7 @@
 title: "My Sourdough Tools"
 date: 2021-06-24T10:17:50+05:30
 author: "Santanu Misra"
-tags: ["Bread", "Baking", "Sourdough", "Tools"]
+tags: ["bread", "baking", "sourdough", "tools"]
 categories : [Food, Tools]
 featured_image : "https://lh3.googleusercontent.com/zbiN3sx-tMEXToHTv6Pmyy2UrvP9SPqrAbz7uqqjUCjekv2wCeAnIY9FDquWleY6WHcyrOgGnClpTmMCgh5GKGu_8gpSihBVV7acCtYIeGCgvmC6b_NKIuXF8vY3zMmL_dV_yv2B7wo"
 featured_image_small : "/images/featured/small/2021-my-sourdough-tools.jpg"

@@ -2,7 +2,7 @@
 title: "My Baking Tins"
 date: 2021-06-24T10:17:50+05:30
 author: "Santanu Misra"
-tags: ["Cake", "Baking", "Muffins", "Tools"]
+tags: ["cake", "baking", "muffins", "tools"]
 categories : [Food, Tools]
 featured_image : "https://lh3.googleusercontent.com/LPT7YxqBRub4BVc7vVTztj0izWNgp1oh0twVeKtwWdZnhgmLpnrz7aWb0ToB5gfuYQ07DIvOfkwhrbD7xbp_gTDpNSC3z_9VaC-3OlMsLINcj7p7QAGKYaX3gVL-51RxnUh0aFYp96s"
 featured_image_small : "/images/featured/small/2021-my-baking-tins-pots.jpg"

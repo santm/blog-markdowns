@@ -2,7 +2,7 @@
 title: "Puducherry "
 date: 2021-08-31T10:17:50+05:30
 author: "Santanu Misra"
-tags: ["Bread", "Eating", "Sourdough", "Puducherry","Travel","Road Travel"]
+tags: ["bread", "eating", "sourdough", "puducherry", "travel", "road travel"]
 categories : [Food, Travel]
 featured_image : "https://lh3.googleusercontent.com/v97A1YWi4d2LlQc0aekk85673NI5glzUvkIMq62Vqt0-m-kkAA7F62wKBkmi2pPAWJ-GJs9Q0p-Ycmg0TjoSsFuAHeqXMFNAdG-HTssOdo6HQY3mA1GYbd-hBB42N8WqunqHuCMyH9M"
 featured_image_small : "/images/featured/small/2021-puducherry.jpg"

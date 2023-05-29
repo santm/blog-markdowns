@@ -2,7 +2,7 @@
 title: "Jawai-Bera land of Leopards"
 date: 2021-10-26T01:02:00+05:30
 author: "Santanu Misra"
-tags: ["Travel", "Road Trips", "car","highway","leopard","wild life"]
+tags: ["travel", "road trips", "car", "highway", "leopard", "wild life"]
 categories : [Travel, India, Rajasthan]
 featured_image : "https://lh3.googleusercontent.com/o45Eg7YHv5koIYbdS2-xGN9SEDbxmOf4K7nhiC-Du7hbVCzLi3HfN2rKdSxxC63frAoyaOxWVpdsgvLgnwGO4c9y3E88QtcIgC0RRWcMKUiyL9pPEnNBqhNfvpg_pVzs0blUZWtKbT4"
 featured_image_small : "/images/featured/small/2021-jawai-bera.jpg"
@@ -44,4 +44,4 @@ If you are still reading few tips ...
 > * Also a good camera body which can handle high ISO.
 > * **Castle Bera** looks like a decent place to stay if that is within your budget.
 > * Coming with experienced photo group might be an better option.
-> * Check out  [SUJÁN](https://thesujanlife.com/jawai) if money is no issue.
+> * Check out  [SUJ√ÅN](https://thesujanlife.com/jawai) if money is no issue.
