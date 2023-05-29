@@ -20,7 +20,7 @@ But they are the worst sickening form of pond scum!
 Just because some  
 Are born with the golden spoon in their hideous mouths!  
 They feel they are superior than the laws,  
- And feel their position and wealth will help them escape justiceâ€™s vengeful claws!  
+ And feel their position and wealth will help them escape justice’s vengeful claws!  
   
   
 Just ignore those people  

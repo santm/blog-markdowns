@@ -14,7 +14,7 @@ featured_image_small : "/images/featured/small/2023-poem-forest.jpg"
 
 
 
-Starting from Indiaâ€™s crown
+Starting from India’s crown
 Lie the craggy white hills
 Dotted with pine, moss oak, and maple
 Who stand like sentinels

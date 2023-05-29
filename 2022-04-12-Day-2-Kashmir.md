@@ -3,7 +3,7 @@ title: "Day 2 in Kashmir"
 description: "Srinagar is the India's northern gateway , a scenic city bustling in culture, tradition and modern elegance "
 pubDate: 2022-04-12T13:05:57+05:30
 author: "Aarush"
-tags: [kashmir, India, travel]
+tags: [kashmir, india, travel]
 category : Travel
 image : {
     src: "https://ik.imagekit.io/santm/blog/2022-Kashmir-day-2_8qhbsjLny.webp",
@@ -16,7 +16,7 @@ Photion Blacklake
 
 We woke at 7 O'clock in the morning when the sun began its ascent over the sombre skies. I along with my mom and sis hurried down for a quick breakfast of bread and omelettes which were flushed down my gullet with some tea. 
 
-We packed our bags and put it inside the car and went to the **Chesma Shahi** garden however security there is quite tight because itâ€™s in proximity with the old palace the former king Hari Singh. The Chesma shahi gardens were designed in the manner that ensure that there is only minimal human influence on the natural surroundings. Its clear water springs provide the water for its fountains. 
+We packed our bags and put it inside the car and went to the **Chesma Shahi** garden however security there is quite tight because it’s in proximity with the old palace the former king Hari Singh. The Chesma shahi gardens were designed in the manner that ensure that there is only minimal human influence on the natural surroundings. Its clear water springs provide the water for its fountains. 
 
 From there we drove up the hill to the **Pari Mahal** it is was built by the liberal prince Dara Shikoh where he used it as a library and residence where it also overlooked the Scenic Kashmir Valley.By the time we finished, it was past 1pm,then headed for lunch at the **Stream restaurant**.It is little upgraded restro compared to Boulevard restaurant.  After having scrumptious lunch particularly rista (meat balls) and walnut fudge dessert with dollop of ice-cream we went to the **Shalimar gardens** which is arranged in  a step wise manner. It also had very beautiful fountains that sprinkled the cool water in mesmerizing arcs. It was built by Jahangir as royal resort to please his wife Nur Jahan. 
 
