@@ -2,7 +2,7 @@
 title: "A Paradise"
 date: 2020-04-09T20:48:39+05:30
 author: "Aarush Misra"
-tags: ["Goa","poem", "Aarush"]
+tags: ["Goa","poem", ]
 categories: [Poem]
 featured_image: "/images/featured/goa-poem.jpg"
 featured_image_small : "/images/featured/small/2020-goa-poem.jpg"

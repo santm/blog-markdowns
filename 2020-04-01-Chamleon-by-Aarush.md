@@ -2,7 +2,7 @@
 title: "Chamleon"
 date: 2020-04-01T11:35:30+05:30
 author: "Aarush Misra"
-tags: ["Chamleon","poem", "Aarush"]
+tags: ["Chamleon","poem", ]
 categories: [Poem]
 featured_image: "/images/featured/chameleon.jpg"
 featured_image_small : "/images/featured/small/2020-chameleon.jpg"

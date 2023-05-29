@@ -5,20 +5,36 @@ published = 2006-05-18T23:38:00+05:30
 author = "Santanu Misra"
 tags = [ "Tech Notes",]
 +++
-This script is a simple empty while loop which will load or increase the
-usage of your cpu.  
-a good way to test your cpu check for different monitoring tool  
-  
-
-while :  
-&gt; do :  
-&gt; done  
-  
-/home/sanmisra&gt;more memory.c  
-
-> main ()  
-> {  
-> while ( 1 ) {  
-> malloc (10240) ;  
-> }  
+This script is a simple empty while loop which will load or increase the
+
+usage of your cpu.  
+
+a good way to test your cpu check for different monitoring tool  
+
+  
+
+
+
+while :  
+
+&gt; do :  
+
+&gt; done  
+
+  
+
+/home/sanmisra&gt;more memory.c  
+
+
+
+> main ()  
+
+> {  
+
+> while ( 1 ) {  
+
+> malloc (10240) ;  
+
+> }  
+
 > }

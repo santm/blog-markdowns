@@ -3,7 +3,7 @@ title: "The Serene Forests of India"
 description: " A poem composed in tribute to the beautiful forests of India "
 pubDate: 2023-01-28T16:36:01+05:30
 author: "Aarush"
-tags: ["poem", "Aarush"]
+tags: ["poem", ]
 category : Poem
 image : {
     src : "https://ik.imagekit.io/santm/blog/2023-Forest-India_pi-QYkna-.webp",

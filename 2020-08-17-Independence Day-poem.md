@@ -2,7 +2,7 @@
 title: "Independence Day - a poem"
 date: 2020-08-17T22:02:00+05:30
 author: "Aarush Misra"
-tags: ["Independence Day","poem", "Aarush"]
+tags: ["Independence Day","poem", ]
 categories: [Poem]
 featured_image: "/images/featured/1947_India_Flag.jpg"
 featured_image_small : "/images/featured/small/2020-1947_India_Flag.jpg"

@@ -2,7 +2,7 @@
 title: "Humanity a Poem"
 date: 2021-10-22T16:36:01+05:30
 author: "Aarush"
-tags: ["Humanity","poem", "Aarush"]
+tags: ["Humanity","poem", ]
 categories : [Poem]
 featured_image : "https://lh3.googleusercontent.com/DNN2XHKMLuoh9he20HSkR4fXxhOH17rUbA01PR4B_64mI3aAaPhDauavSVPDGPF1PPqRsHaDHWKOi8bwaelh7j0RZ9hiR7W7a3h99kHES2MJ7DXXCFwob6fbrVmvVamhkRglBhMbv3o"
 featured_image_small : "/images/featured/small/2021-poem-humanity.jpg"

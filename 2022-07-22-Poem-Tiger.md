@@ -3,7 +3,7 @@ title: "The Tiger and his prey"
 description: "The striped assasin of the forest tops the food chain, the tiger is an animal not to be trifled with "
 pubDate: 2022-07-22T16:36:01+05:30
 author: "Aarush"
-tags: ["Tiger","poem", "Aarush"]
+tags: ["Tiger","poem", ]
 category : Poem
 image: {
     src: "https://ik.imagekit.io/santm/blog/tiger-male-kabini_91wJdPBIi.webp",

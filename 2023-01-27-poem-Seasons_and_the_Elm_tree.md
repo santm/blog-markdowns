@@ -3,7 +3,7 @@ title: "Seasons and the Elm tree"
 description: "The seasons come and go, a cycle of life and death repeats but elm tree stands,witness to everything around it"
 pubDate: 2023-01-27T16:36:01+05:30
 author: "Aarush"
-tags: ["poem", "Aarush"]
+tags: ["poem", ]
 category : Poem
 image : {
     src : "https://ik.imagekit.io/santm/blog/2023-Seasons-Elm-tree_gyTYFNQhN.webp",
