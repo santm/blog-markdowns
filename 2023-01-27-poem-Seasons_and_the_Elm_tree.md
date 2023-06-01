@@ -3,7 +3,7 @@ title: "Seasons and the Elm tree"
 description: "The seasons come and go, a cycle of life and death repeats but elm tree stands,witness to everything around it"
 pubDate: 2023-01-27T16:36:01+05:30
 author: "Aarush"
-tags: ["poem", ]
+tags: [ ]
 category : Poem
 image : {
     src : "https://ik.imagekit.io/santm/blog/2023-Seasons-Elm-tree_gyTYFNQhN.webp",
@@ -11,37 +11,31 @@ image : {
     }
 featured_image_small : "/images/featured/small/tiger-kabini.jpg"
 ---
-{{< rawhtml >}}
-<p class="has-text-centered is-size-2">Seasons and the Elm tree</p>
-<p class="has-text-centered">
-</br>
-Here stand the lonely elm tree</br>
-Rooted to the ground</br>
-While its young little leaves swing free</br>
-In the cool breeze that blows around</br>
-</br>
-Now Lo, behold!</br>
-Here comes the wonderful summer</br>
-Life abounds!</br>
-The  ground is lush and lime green</br> 
-A glorious leaves of parakeet green</br>
-Against the clear blue sky</br>
-</br>
-Now Lo behold!</br>
-Here comes the ghostly winter</br> 
-Where no life is seen</br>
-The weather is a bully; wicked, harsh and mean</br>
-Where only the Ravens cry </br>
-The tree lies naked, its green lustre gone</br> 
-Just bare wood, merely just wheat brown</br>
-Against the deathly grey atmosphere</br>
-</br>
-Now lo behold!</br>
-Here comes the rejuvenating spring</br>
-The leaves are back</br>
-A new lease on life</br>
-Freed from the ice </br>
-The grass dots the former barren lithosphere</br>
-That surrounds the lonely elm tree</br>
-</br>
-{{< /rawhtml >}}
+Here stand the lonely elm tree
+Rooted to the ground
+While its young little leaves swing free
+In the cool breeze that blows around
+
+Now Lo, behold!
+Here comes the wonderful summer
+Life abounds!
+The  ground is lush and lime green 
+A glorious leaves of parakeet green
+Against the clear blue sky
+
+Now Lo behold!
+Here comes the ghostly winter 
+Where no life is seen
+The weather is a bully; wicked, harsh and mean
+Where only the Ravens cry 
+The tree lies naked, its green lustre gone 
+Just bare wood, merely just wheat brown
+Against the deathly grey atmosphere
+
+Now lo behold!
+Here comes the rejuvenating spring
+The leaves are back
+A new lease on life
+Freed from the ice 
+The grass dots the former barren lithosphere
+That surrounds the lonely elm tree

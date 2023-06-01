@@ -3,7 +3,7 @@ title: "Tiger and it, prey "
 description: "Something lurks in the tall grass of the forests, but before the doe realises, her fate fate is sealed "
 pubDate: 2023-01-29T16:36:01+05:30
 author: "Aarush"
-tags: ["poem", ]
+tags: [ ]
 category : Poem
 image : {
     src : "https://ik.imagekit.io/santm/blog/2023-Tiger-poem_tNrPFBmik.webp",

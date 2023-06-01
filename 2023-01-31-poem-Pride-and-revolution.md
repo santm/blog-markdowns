@@ -3,7 +3,7 @@ title: "Pride and revolution"
 description: "Vanity of the inglorious corrupt invites the wrath of the downtrodden "
 pubDate: 2023-01-31T16:36:01+05:30
 author: "Aarush"
-tags: ["poem", ]
+tags: [ ]
 category : Poem
 image : {
 	src : "https://ik.imagekit.io/santm/blog/2023-poem-pride_V2pT_d4HeQ.webp",
