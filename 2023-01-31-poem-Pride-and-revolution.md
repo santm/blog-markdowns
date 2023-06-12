@@ -1,10 +1,10 @@
 ---
 title: "Pride and revolution"
 description: "Vanity of the inglorious corrupt invites the wrath of the downtrodden "
-pubDate: 2023-01-31T16:36:01+05:30
+pubDate: 2023-01-31
 author: "Aarush"
-tags: [ ]
-category : Poem
+tags: ["poem"]
+category : "Poem"
 image : {
 	src : "https://ik.imagekit.io/santm/blog/2023-poem-pride_V2pT_d4HeQ.webp",
 	alt : "Glittering gold",
@@ -20,7 +20,7 @@ But they are the worst sickening form of pond scum!
 Just because some  
 Are born with the golden spoon in their hideous mouths!  
 They feel they are superior than the laws,  
- And feel their position and wealth will help them escape justice’s vengeful claws!  
+ And feel their position and wealth will help them escape justice's vengeful claws!  
   
   
 Just ignore those people  

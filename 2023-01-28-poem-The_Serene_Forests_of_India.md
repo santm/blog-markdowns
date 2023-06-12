@@ -1,10 +1,10 @@
 ---
 title: "The Serene Forests of India"
 description: " A poem composed in tribute to the beautiful forests of India "
-pubDate: 2023-01-28T16:36:01+05:30
+pubDate: 2023-01-28
 author: "Aarush"
-tags: ["poem", ]
-category : Poem
+tags: ["forest", "tree" ]
+category : "Poem"
 image : {
     src : "https://ik.imagekit.io/santm/blog/2023-Forest-India_pi-QYkna-.webp",
     alt : "Sunrise at Tadoba",
@@ -14,7 +14,7 @@ featured_image_small : "/images/featured/small/2023-poem-forest.jpg"
 
 
 
-Starting from India’s crown
+Starting from India's crown
 Lie the craggy white hills
 Dotted with pine, moss oak, and maple
 Who stand like sentinels
